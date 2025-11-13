@@ -6,7 +6,7 @@ const PAGES = {
 };
 
 // const apiUrl = "http://localhost:3000/";
-const apiUrl = "https://charmed-cool-hope.glitch.me/";
+const apiUrl = "https://marvel-backend-kcle.onrender.com/";
 const loadingGIFs = [
   "src/images/ironman.gif",
   "src/images/deadpool.gif",
